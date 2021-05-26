@@ -164,7 +164,8 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/jesseProfessional.jpg);
+  background-image: url(images/me.jpg);
+  border-radius: 50%;
 }
 a.linkedin {
   background-image: url(images/linkedin.svg);
